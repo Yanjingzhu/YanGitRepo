@@ -1,4 +1,5 @@
 
+
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -29,7 +30,8 @@ namespace GitSolution
             //github web
             //#197 #71
             //for pull request build
-
+            // for new PR
+             //  for new PR
         }
     }
 }
