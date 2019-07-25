@@ -18,7 +18,7 @@ namespace GitSolution
             Console.WriteLine("Test CI");
             //ttt
             //feature
-            //
+            //ffff
             //20171010 vvv
             //lkkk
             //;;; yanagent
@@ -30,7 +30,12 @@ namespace GitSolution
             //#197 #71
             //for pull request build
             //pull request
+
             //kkkk
+
+			//ddddd
+			//dddd
+
 
         }
     }
