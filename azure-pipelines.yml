@@ -11,9 +11,6 @@ trigger:
     include:
     - '*' 
     
-pr: none
-    
-
 steps:
 - script: echo First step!
 
