@@ -6,10 +6,8 @@
 pool:
   vmImage: 'VS2017-Win2016'
 
-trigger:
-   branches:
-     include:
-     - '*'
+pr: none
+    
 
 steps:
 - script: echo First step!
